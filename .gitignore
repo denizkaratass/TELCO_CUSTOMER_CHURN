@@ -1,0 +1,19 @@
+# CatBoost training logs
+catboost_info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Miuul assignment brief (copyrighted, not redistributed)
+Telco_Churn_Feature_Engineering.pdf
